@@ -1,0 +1,13 @@
+.abc{
+    background-color: black;
+    color: white;
+}
+
+.def{
+    background-color: yellow;
+}
+
+.abc.def{
+    font-size: 28px;
+    font-family: Helvetica,"Times new roman" sans-serif;
+}
